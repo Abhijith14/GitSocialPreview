@@ -3,8 +3,7 @@ from bs4 import BeautifulSoup
 import urllib
 from urllib.request import Request, urlopen
 
-url = "https://github.com/facebook/react"
-# url = "https://github.com/matiassingers/awesome-readme"
+url = "https://github.com/Abhijith14/GitSocialPreview"
 
 
 
