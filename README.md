@@ -69,8 +69,8 @@ python main.py
 ```
 
 This will start creating the preview.<br>
-You can find your results inside [output](output/) folder as : `gitusername/reponame`<br>
-Eg : `Abhijith14/GitSocialPreview`
+You can find your results inside [output](output/) folder as : `gitusername/reponame.png`<br>
+Eg : `Abhijith14/GitSocialPreview.png`
 <br>
 
 
