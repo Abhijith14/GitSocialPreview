@@ -42,22 +42,22 @@ Install Dependencies only for Mac/Linux:
 
 ## ⚙️ Customize the preview
 Inside [assets](assets/) folder you have, 
-#                          |  Image                    | Size (width x height)
-:-------------------------:|:-------------------------:|:-------------------------:
-Background         |  ![bg](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/bg.png)        | 1280 x 640 px
-Face               |  ![face](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/face.png)    | 300 x 300 px
-Signature          |  ![Signature](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/signature.png)   | 250 x 65 px
-Contributors Icon  |  ![Contributors](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/git_contrib.png) | 40 x 40 px
-Forks Icon         |  ![Forks](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/git_fork.png)  | 40 x 40 px
-Issues Icon        |  ![Issues](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/git_issues.png)  | 40 x 40 px
-Stars Icon         |  ![Stars](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/git_stars.png)  | 40 x 40 px
-Github Icon        |  ![Github](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/github.png)  | 100 x 100 px
+|#                          |  Image                    | Size (width x height)
+|:-------------------------:|:-------------------------:|:-------------------------:
+|Background         |  ![bg](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/bg.png)        | 1280 x 640 px
+|Face               |  ![face](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/face.png)    | 300 x 300 px|
+|Signature          |  ![Signature](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/signature.png)   | 250 x 65 px
+|Contributors Icon  |  ![Contributors](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/git_contrib.png) | 40 x 40 px
+|Forks Icon         |  ![Forks](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/git_fork.png)  | 40 x 40 px
+|Issues Icon        |  ![Issues](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/git_issues.png)  | 40 x 40 px
+|Stars Icon         |  ![Stars](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/git_stars.png)  | 40 x 40 px
+|Github Icon        |  ![Github](https://raw.githubusercontent.com/Abhijith14/GitSocialPreview/master/assets/github.png)  | 100 x 100 px
 
 You can change the images according to your usage. Remember to `KEEP THE SAME SIZE` as of the image you are replacing.
 
 ## 👨‍💻 Usage
 
-Find the link of your repo. Paste it inside `url` variable inside [scripts.py](scripts.py) file.
+Find the link of your repo. Paste it inside `url` variable inside [scrape.py](scrape.py) file.
 
 ```console
 url = "https://github.com/Abhijith14/GitSocialPreview"
